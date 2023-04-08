@@ -4,8 +4,8 @@
   "description": "this first project",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "serve": "nodemon server.js"
+    "start": "node backend/server.js",
+    "serve": "nodemon backend/server.js"
   },
   "author": "Baraa M Mubarak",
   "license": "MIT",
